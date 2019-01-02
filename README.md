@@ -63,8 +63,8 @@ pm2 start app.js
 ### 开发及项目截图
 按照所列功能点和需求点进行相应的开发
 #### 截图
-![](screen/7.png)![](screen/6.png)
-![](screen/1.png)![](screen/2.png)
-![](screen/3.png)![](screen/4.png)
-![](screen/5.png)![](screen/8.png)
-![](screen/9.png)
+![](screenshots/7.png) ![](screenshots/6.png)
+![](screenshots/1.png) ![](screenshots/2.png)
+![](screenshots/3.png) ![](screenshots/4.png)
+![](screenshots/5.png) ![](screenshots/8.png)
+![](screenshots/9.png)
