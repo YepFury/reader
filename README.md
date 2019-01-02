@@ -1,7 +1,7 @@
 ## 基于Vue+Vuex+Nodejs+MySql开发小说阅读器
 
     参考项目：[https://github.com/tgxhx/vue-reader](https://github.com/tgxhx/vue-reader)
-    本文项目
+    本文项目：[https://github.com/YepFury/reader](https://github.com/YepFury/reader)
     
 技术栈：Vue + Vuex + Vue-router + nodejs + express + mysql 等
 
@@ -27,17 +27,17 @@
 
 ### 准备工作
 #### 1. 数据导入
-本项目在参考项目的基础上增加了登录、注册等功能，因此增加了用户相关的一些表，sql文件[下载地址](https://note.youdao.com/)，下载之后导入到MySQL数据库即可使用
+本项目在参考项目的基础上增加了登录、注册等功能，因此增加了用户相关的一些表，sql文件[下载地址](https://pan.baidu.com/s/1YBJKqj1q9biAdaDlx0TPDQ)，下载之后导入到MySQL数据库即可使用
 
 
 #### 2. 接口开发
 使用express进行接口开发
-接口项目地址：[git]()
+接口项目地址：[https://github.com/YepFury/reader-api](https://github.com/YepFury/reader-api)
 
 本地使用方法：
 ```shell
 # 克隆项目
-git clone 
+git clone git@github.com:YepFury/reader-api.git
 
 # 进入到项目根目录，安装依赖
 cd read-api
@@ -50,7 +50,7 @@ node app.js
 服务器使用方法：
 ```shell
 # 克隆项目
-git clone
+git clone git@github.com:YepFury/reader-api.git
 
 # 进入到项目根目录，安装依赖
 cd read-api/
